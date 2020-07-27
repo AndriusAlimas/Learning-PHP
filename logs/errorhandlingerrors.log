@@ -1,0 +1,16 @@
+Error[$512] on 29/04/2020 02:26:17
+Details: inexistingfile.txt does not exist and thus size cannot be retrieved! . 
+Location: In /home/alimasor/domains/alimas.host20.uk/public_html/study/6. PHP/28.errorhandling.php on line 44. 
+Variables: Array
+(
+    [file] => inexistingfile.txt
+)
+
+Error[$512] on 29/04/2020 02:29:24
+Details: inexistingfile.txt does not exist and thus size cannot be retrieved! . 
+Location: In /home/alimasor/domains/alimas.host20.uk/public_html/study/6. PHP/28.errorhandling.php on line 44. 
+Variables: Array
+(
+    [file] => inexistingfile.txt
+)
+
